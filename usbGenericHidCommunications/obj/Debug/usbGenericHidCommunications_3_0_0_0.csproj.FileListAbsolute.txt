@@ -1,0 +1,4 @@
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb

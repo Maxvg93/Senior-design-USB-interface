@@ -1,0 +1,10 @@
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\bin\Debug\WFF Generic HID Demo 3.exe
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\bin\Debug\WFF Generic HID Demo 3.pdb
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\bin\Debug\usbGenericHidCommunications.dll
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\bin\Debug\usbGenericHidCommunications.pdb
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF Generic HID Demo 3.csprojResolveAssemblyReference.cache
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF_Generic_HID_Demo_3.Form1.resources
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF_Generic_HID_Demo_3.Properties.Resources.resources
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF Generic HID Demo 3.csproj.GenerateResource.Cache
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF Generic HID Demo 3.exe
+D:\MyDocs\Desktop\Senior Design USB Communication demo\WFF Generic HID Demo 3\WFF Generic HID Demo 3\obj\x86\Debug\WFF Generic HID Demo 3.pdb
